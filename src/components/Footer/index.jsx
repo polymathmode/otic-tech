@@ -21,7 +21,7 @@ const Footer = () => (
             <div className="space-y-2">
               <div className="flex items-center">
                 <Mail className="w-5 h-5 mr-2" />
-                <a href="osamudiameojo@gmail.com">osamudiameojo@gmail.com</a>
+                <a href="osamudiameojo@gmail.com">oticconsults@gmail.com</a>
               </div>
               <div className="flex items-center">
                 <Mail className="w-5 h-5 mr-2" />
@@ -69,7 +69,7 @@ const Footer = () => (
         </div>
   
         <div className="max-w-7xl mx-auto px-4 mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
-          <p>Copyright © 2025 Oti Tech Technologies Ltd. All right reserved.</p>
+          <p>Copyright © 2025 Otic Technologies Ltd. All right reserved.</p>
         </div>
       </div>
     </footer>
